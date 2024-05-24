@@ -107,7 +107,7 @@
 
 # Rivalz Node Kurulumu
 
-> Rivalz hesap açıyoruz [buradan](https://rivalz.ai?r=Ruesandora0)
+> Rivalz hesap açıyoruz [buradan](https://rivalz.ai?r=reedchain)
 
 > Burada cüzdan, twitter ve discord her şey bağlayın.
 
